@@ -53,10 +53,10 @@ ________________________________________________________________________________
 <h3>Representação da Matriz de Confusão</h3>
 
 <ul>
-    <li>Árvore de Decisão
-        <img src="https://lh3.googleusercontent.com/pw/AP1GczP3hcWdsbOz5SoCFoHY5aIfisdL3gTYEN8KbN9wd6b8ofLs5LIClTqbehNsOyADrLV13FjGItJptj4VDKfRulA_mifBRVexVkwtH8K-nY3-I-5tFn9VKHYiNjmcUzCh37-yUpRPpTd7nd5gLj0s3cTV=w640-h480-s-no-gm?authuser=0" alt="Árvore de Decisão" border="0" width="600"/>
+    <li>Árvore de Decisão <br><br>
+        <img src="https://lh3.googleusercontent.com/pw/AP1GczP3hcWdsbOz5SoCFoHY5aIfisdL3gTYEN8KbN9wd6b8ofLs5LIClTqbehNsOyADrLV13FjGItJptj4VDKfRulA_mifBRVexVkwtH8K-nY3-I-5tFn9VKHYiNjmcUzCh37-yUpRPpTd7nd5gLj0s3cTV=w640-h480-s-no-gm?authuser=0" alt="Árvore de Decisão" border="0" width="600"/> <br> <br>
     </li>
-    <li>Naive Bayes
+    <li>Naive Bayes <br><br>
         <img src="https://lh3.googleusercontent.com/pw/AP1GczP3hcWdsbOz5SoCFoHY5aIfisdL3gTYEN8KbN9wd6b8ofLs5LIClTqbehNsOyADrLV13FjGItJptj4VDKfRulA_mifBRVexVkwtH8K-nY3-I-5tFn9VKHYiNjmcUzCh37-yUpRPpTd7nd5gLj0s3cTV=w640-h480-s-no-gm?authuser=0" alt="Árvore de Decisão" border="0" width="600"/>
     </li>
 </ul>
